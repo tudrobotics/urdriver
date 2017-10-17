@@ -1,1 +1,1 @@
-interface and implementation of the control for UR
+Java interface and implementation for control of UR-manufactured robots.
