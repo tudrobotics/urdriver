@@ -1,2 +1,1 @@
-# urdriver
-A Java interface to universal robotics
+interface and implementation of the control for UR
